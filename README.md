@@ -1,4 +1,4 @@
-# ArgoCD akv2k8s_argo_app
+# ArgoCD akv2k8s ArgoCD App
 
   Install akv2k8
 
